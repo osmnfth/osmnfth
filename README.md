@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatich</h1>
 <h3 align="center">A passionate frontend developer from Greece</h3>
 
-- 🌱 I’m currently learning **React Native, Laravel**
-
 - 📫 How to reach me **osmanfatih96@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
